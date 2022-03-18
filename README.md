@@ -1,6 +1,7 @@
 # Ejercicio1_Sistemas #
 *Abril Frongia*
 ---
+## EJERCICIO 1 ##
 1.Crea la siguiente estructura de carpetas:
 - ![image](https://user-images.githubusercontent.com/72273897/159031942-8dd783b2-bc74-4209-8f5c-330dca58fefe.png)
 
@@ -38,4 +39,15 @@
 - ![image](https://user-images.githubusercontent.com/72273897/159039111-fa83a6b6-9029-4feb-ad23-ab7d08db4642.png)
 ---
 ---
-1
+## EJERCICIO 2 ##
+*Indica en cada caso las órdenes utilizadas:*
+
+1.
+- ![image](https://user-images.githubusercontent.com/72273897/159045633-fcf6c8ba-cc78-4cc7-832a-0a8b65834797.png)
+
+2.
+- ![image](https://user-images.githubusercontent.com/72273897/159045975-456856ef-7519-496e-a3f3-a9e6cc875522.png)
+
+3.
+- ![image](https://user-images.githubusercontent.com/72273897/159046311-a129b2a7-1ca4-4192-9e8f-9475ef314ac7.png)
+
