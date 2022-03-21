@@ -104,3 +104,12 @@
 
 8.
 - ![image](https://user-images.githubusercontent.com/72273897/159261658-233cf275-9352-48cd-9ee7-a2a736fd5130.png)
+
+9.
+- ![image](https://user-images.githubusercontent.com/72273897/159262442-18a0a101-ce85-404b-893c-9c47049ceb4b.png)
+
+10.
+- ![image](https://user-images.githubusercontent.com/72273897/159262573-b2babbd7-1e50-4de3-915e-87eafbf0c6e1.png)
+---
+---
+## EJERCICIO 4 ##
