@@ -113,3 +113,27 @@
 ---
 ---
 ## EJERCICIO 4 ##
+
+1.
+- ![image](https://user-images.githubusercontent.com/72273897/159269642-064deeab-7804-4066-814b-a72206c18bf2.png)
+
+2.
+- ![image](https://user-images.githubusercontent.com/72273897/159269948-37834bc6-15d2-44f0-90a3-9383f5a4ee8a.png)
+
+3.
+- ![image](https://user-images.githubusercontent.com/72273897/159270124-7b6433bd-9ea1-4b1b-a070-48447d70f97e.png)
+
+4.
+- ![image](https://user-images.githubusercontent.com/72273897/159270654-0659485a-3e9e-4203-8324-4c0072a82640.png)
+
+5.
+- ![image](https://user-images.githubusercontent.com/72273897/159272659-8a917590-8a77-4913-93e0-d72725d7746f.png)
+
+6.
+- ![image](https://user-images.githubusercontent.com/72273897/159273229-2322e017-1cdf-4521-beef-c4f25b566e0b.png)
+
+7.
+- ![image](https://user-images.githubusercontent.com/72273897/159274152-ee87c813-06e2-4f72-b9c2-6cc405df2910.png)
+
+8.
+- ![image](https://user-images.githubusercontent.com/72273897/159276805-12168e06-c4e3-4e8b-ae74-fcbee5bb7221.png)
