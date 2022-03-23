@@ -137,3 +137,5 @@
 
 8.Cambia la extensión de los archivos contenidos en AGENDA por .TYP.
 - ![image](https://user-images.githubusercontent.com/72273897/159276805-12168e06-c4e3-4e8b-ae74-fcbee5bb7221.png)
+
+**Las actividades 9 y 10 no son posibles de realizar ya que no nos piden crear ningun documento de extension .DOC ni que empiece por  C . **
